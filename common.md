@@ -20,23 +20,45 @@ An airgap isolates a computer from the network as it has no physical or wireless
 An interface between two systems at which (a) they are not connected physically and (b) any logical connection is not automated (i.e., data is transferred through the interface only manually, under human control).
 > Reference(s): https://csrc.nist.gov/glossary/term/air_gap  
 
-### Playbook
-A playbook is a list of required steps and actions needed to successfully respond to any incident or threat. Playbooks provide a step-by-step approach to orchestration, helping security teams to establish standardized incident response processes and ensuring the steps are followed in compliance with regulatory frameworks. 
-
-### Runbook
-Runbooks can automate and carry out the early-stage processes of evaluating and examining security incidents until a human analyst is needed to intervene. They can automate the threat management operations from detection and triage to investigation and containment. For example, in a spearphishing runbook, indicators are extracted from the phishing email, checked through different threat services, and subsequently, blocked if they are found malicious.  
-> Reference(s): https://cyware.com/educational-guides/security-orchestration-automation-and-response/what-is-the-difference-between-a-security-playbook-and-a-runbook-ddc4/
-
-### SIEM
-A Security Information and Event Management (SIEM) is an application that provides the ability to gather security data from information system components and present that data as actionable information via a single interface.
-> Reference(s): https://csrc.nist.gov/glossary/term/security_information_and_event_management_tool  
-
 ### CIA Triad Concept
 The three pillars of information security - Confidentiality, Integrity and Availability (CIA). 
 - **Confidentiality** – preserving authorized restrictions on information access and disclosure, including means for protecting personal privacy and proprietary information  
 - **Integrity** — guarding against improper information modification or destruction and ensuring information non-repudiation and authenticity  
 - **Availability** – ensuring timely and reliable access to and use of information  
 > Reference(s): https://www.nccoe.nist.gov/publication/1800-25/VolA/index.html  
+
+### EDR
+**Endpoint detection and response (EDR)**, also known as endpoint threat detection and response (ETDR), is an integrated endpoint security solution that combines real-time continuous monitoring and collection of endpoint data with rules-based automated response and analysis capabilities. The term was suggested by Anton Chuvakin at Gartner to describe emerging security systems that detect and investigate suspicious activities on hosts and endpoints, employing a high degree of automation to enable security teams to quickly identify and respond to threats.  
+> Reference(s): https://www.mcafee.com/enterprise/en-au/security-awareness/endpoint/what-is-endpoint-detection-and-response.html
+
+### XDR
+**Extended detection and response (XDR)** delivers visibility into data across networks, clouds, endpoints, and applications while applying analytics and automation to detect, analyze, hunt, and remediate today's and tomorrow's threats. XDR collects and correlates data across email, endpoints, servers, cloud workloads, and networks, enabling visibility and context into advanced threats. Threats can then be analyzed, prioritized, hunted, and remediated to prevent data loss and security breaches.
+> Reference(s): https://www.cisco.com/c/en/us/products/security/what-is-xdr.html
+
+### OSINT
+**Open Source Intelligence (OSINT)** methods of obtaining information about a person or organisation through publicly available information, records, websites and social media.
+
+### Playbook
+A playbook is a list of required steps and actions needed to successfully respond to any incident or threat. Playbooks provide a step-by-step approach to orchestration, helping security teams to establish standardized incident response processes and ensuring the steps are followed in compliance with regulatory frameworks.  
+> Reference(s): https://cyware.com/educational-guides/security-orchestration-automation-and-response/what-is-the-difference-between-a-security-playbook-and-a-runbook-ddc4/  
+
+### Runbook
+Runbooks can automate and carry out the early-stage processes of evaluating and examining security incidents until a human analyst is needed to intervene. They can automate the threat management operations from detection and triage to investigation and containment. For example, in a spearphishing runbook, indicators are extracted from the phishing email, checked through different threat services, and subsequently, blocked if they are found malicious.  
+> Reference(s): https://cyware.com/educational-guides/security-orchestration-automation-and-response/what-is-the-difference-between-a-security-playbook-and-a-runbook-ddc4/
+
+### SOAR
+**Security orchestration, automation, and response (SOAR)** seeks to alleviate the strain on IT teams by incorporating automated responses to a variety of events. SOAR combines three software capabilities: the management of threats and vulnerabilities, responding to security incidents, and *automating security operations*. SOAR security, therefore, provides a top-to-bottom threat management system. Threats are identified and then a response strategy is implemented. The system is then automated—to the extent possible to make it run more efficiently. An effective SOAR system can be used as a valuable tool to alleviate the strain on IT teams. SOAR collects data and alerts security teams using a centralized platform similar to SIEM, but SIEM only sends alerts to security analysts. SOAR security, on the other hand, takes it a step further by automating the responses. It uses artificial intelligence (AI) to learn pattern behaviors, which enable it to predict similar threats before they happen. This makes it easier for IT security staff to detect and address threats.    
+>Reference(s): https://www.fortinet.com/resources/cyberglossary/what-is-soar
+
+### SIEM
+A Security Information and Event Management (SIEM) is an application that provides the ability to gather security data from information system components and present that data as actionable information via a single interface.
+> Reference(s): https://csrc.nist.gov/glossary/term/security_information_and_event_management_tool  
+
+### SOC
+The function of the **security operations center (SOC)** is to monitor, prevent, detect, investigate, and respond to cyber threats around the clock. SOC teams are charged with monitoring and protecting the organization’s assets including intellectual property, personnel data, business systems, and brand integrity. The SOC team implements the organization’s overall cybersecurity strategy and acts as the central point of collaboration in coordinated efforts to monitor, assess, and defend against cyberattacks.  
+> Reference(s): https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-soc/
+
+
 
 
 
