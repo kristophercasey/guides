@@ -1,4 +1,5 @@
-# Security 
-### InfoSec CyberSec notes, cheatsheets and study guides. 
-[Reverse Shell Examples](reverseshells.md)
-[Information and Cyber Security Glossary of Common Terms](glossary.md)
+# Information and Cyber Security
+## Guides, References and Study Material 
+- [Glossary of Common Terms](glossary.md)  
+- [Reverse Shell Examples](reverseshells.md)  
+
