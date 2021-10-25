@@ -3,15 +3,19 @@
 ### AAA
 Authentication, Authorization, and Accounting
 - **Authentication** - Authentication provides a method of identifying a user, typically by having the user enter a valid username and password before access to the network is granted. Authentication is based on each user having a unique set of login credentials for gaining network access.
-- Methods of authentication as it relates to a person's identity:
-  - Something you know
-  - Something you are
-  - Something you have
-  - Something you do
-  - Somewhere you are  
 - **Authorization** - Following authentication, a user must gain authorization for doing certain tasks. After logging in to a system, for instance, the user may try to issue commands. The authorization process determines whether the user has the authority to issue such commands. Authorization is the process of enforcing policies—determining what types or qualities of activities, resources, or services a user is permitted. Usually authorization occurs within the context of authentication. After you have authenticated a user, they may be authorized for different types of access or activity.
 - **Accounting** - The final piece in the AAA framework is accounting, which monitors the resources a user consumes during network access. This can include the amount of system time or the amount of data sent and received during a session. 
 > Reference(s): https://www.arubanetworks.com/techdocs/ClearPass/6.7/Aruba_DeployGd_HTML/Content/802.1X%20Authentication/About_AAA.htm
+
+### MFA
+Multi-factor authentication (MFA) is method of authentication that uses two or more authentication factors.
+- Five main types of multi-factor authentication
+1. Knowledge (Something you know) - Passwords, passphrase, passcode, answer to a secret question
+2. Possession (Something you have) - Mobile devices, key fobs, access cards, security tokens
+3. Inheritance (Something you are) - Fingerprint scans, iris or retina scans, voice recognition 
+4. Behavioural (Something you do) - Patterns in the way that we behave such as in our typing.
+5. Location (Somewhere you are) - Geographical location information, such as where are you logging in from.  
+> Reference(s): https://www.mitnicksecurity.com/blog/what-is-multi-factor-authentication-how-does-it-work
 
 ### AirGap
 An airgap isolates a computer from the network as it has no physical or wireless connections. The only way to extract data is by removable media.
