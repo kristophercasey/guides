@@ -1,5 +1,3 @@
-# Information and Cyber Security Glossary of Common Terms
-
 ## Governance, Compliance and Risk Management
 
 ### GDPR  
