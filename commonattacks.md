@@ -3,17 +3,21 @@
 A cyberattack is a malicious and deliberate attempt by an individual or organisation to breach the information system of another individual or organisation. Usually, the attacker seeks some type of benefit from disrupting the victim’s network.
 > Reference(s): https://www.cisco.com/c/en_au/products/security/common-cyberattacks.html
 
-
 ## Malware
-The term “malware” encompasses various types of attacks including spyware, viruses, and worms. Malware uses a vulnerability to breach a network when a user clicks a “planted” dangerous link or email attachment, which is used to install malicious software inside the system.
+Malicious Code (Maleware) A program that is covertly inserted into another program with the intent to destroy data, run destructive or intrusive programs, or otherwise compromise the confidentiality, integrity, or availability of the victim’s data, applications, or operating system. A virus, worm, Trojan horse, or other code-based entity that infects a host. Spyware and some forms of adware are also examples of malicious code (malware).
+> Reference(s): https://csrc.nist.gov/glossary/term/malware
 
-  - **Viruses** these infect applications attaching themselves to the initialization sequence. The virus replicates itself, infecting other code in the computer system. Viruses can also attach themselves to executable code or associate themselves with a file by creating a virus file with the same name but with an .exe extension, thus creating a decoy which carries the virus.
+  - **Viruses** A computer program that can copy itself and infect a computer without permission or knowledge of the user. A virus might corrupt or delete data on a computer, use e-mail programs to spread itself to other computers, or even erase everything on a hard disk.
+> Reference(s): https://csrc.nist.gov/glossary/term/virus
 
-  - **Trojans** a program hiding inside a useful program with malicious purposes. Unlike viruses, a trojan doesn’t replicate itself and it is commonly used to establish a backdoor to be exploited by attackers.
-Worms—unlike viruses, they don’t attack the host, being self-contained programs that propagate across networks and computers. Worms are often installed through email attachments, sending a copy of themselves to every contact in the infected computer email list. They are commonly used to overload an email server and achieve a denial-of-service attack.
-  - **Ransomware** a type of malware that denies access to the victim data, threatening to publish or delete it unless a ransom is paid. Advanced ransomware uses cryptoviral extortion, encrypting the victim’s data so that it is impossible to decrypt without the decryption key.
-  - **Spyware** a type of program installed to collect information about users, their systems or browsing habits, sending the data to a remote user. The attacker can then use the information for blackmailing purposes or download and install other malicious programs from the web.  
-> Reference(s): https://www.infocyte.com/blog/2019/05/01/cybersecurity-101-intro-to-the-top-10-common-types-of-cyber-security-attacks/
+  - **Trojans / Trojan Horse** A computer program that appears to have a useful function, but also has a hidden and potentially malicious function that evades security mechanisms, sometimes by exploiting legitimate authorizations of a system entity that invokes the program.
+> Reference(s): https://csrc.nist.gov/glossary/term/trojan_horse
+ 
+  - **Ransomware** is a type of malware that encrypts an organization’s data, with cyber actors demanding payment as a condition of restoring access to that data. In some instances, the cyber actors also may steal an organization’s information and demand an additional payment in return for not disclosing the information to authorities, competitors or the public.
+> Reference(s): https://www.natlawreview.com/article/nist-issues-cybersecurity-framework-ransomware-risk-management
+
+  - **Spyware** Software that is secretly or surreptitiously installed into a system to gather information on individuals or organizations without their knowledge
+> Reference(s): https://csrc.nist.gov/glossary/term/spyware
 
 ## Phishing
 
