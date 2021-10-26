@@ -1,4 +1,4 @@
-# Encryption Terminology
+# Symmetric Vs Asymmetric Encryption
 
 ## Symmetric Encryption (shared key)
 - Uses a single key to encrypt and decrypt the data.
