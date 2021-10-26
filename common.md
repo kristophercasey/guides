@@ -39,6 +39,13 @@ The three pillars of information security - Confidentiality, Integrity and Avail
 **Extended detection and response (XDR)** delivers visibility into data across networks, clouds, endpoints, and applications while applying analytics and automation to detect, analyze, hunt, and remediate today's and tomorrow's threats. XDR collects and correlates data across email, endpoints, servers, cloud workloads, and networks, enabling visibility and context into advanced threats. Threats can then be analyzed, prioritized, hunted, and remediated to prevent data loss and security breaches.
 > Reference(s): https://www.cisco.com/c/en/us/products/security/what-is-xdr.html
 
+### Hardening  
+System hardening is the process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors. It’s a form of cyberattack protection that involves closing system loopholes that cyberattackers frequently use to exploit the system and gain access to users’ sensitive data.
+> Reference(s): https://www.trentonsystems.com/blog/system-hardening-overview  
+
+A process intended to eliminate a means of attack by patching vulnerabilities and turning off nonessential services.
+>Reference(s): https://csrc.nist.gov/glossary/term/Hardening
+
 ### OSINT
 **Open Source Intelligence (OSINT)** methods of obtaining information about a person or organisation through publicly available information, records, websites and social media.
 
