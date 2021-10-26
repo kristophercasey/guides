@@ -8,8 +8,8 @@ Authentication, Authorization, and Accounting
 > Reference(s): https://www.arubanetworks.com/techdocs/ClearPass/6.7/Aruba_DeployGd_HTML/Content/802.1X%20Authentication/About_AAA.htm
 
 ### MFA
-Multi-factor authentication (MFA) is method of authentication that uses two or more authentication factors.
-- Five main types of multi-factor authentication
+Multi-factor authentication (MFA) is method of authentication that uses two or more authentication factors.  
+**Five main types of multi-factor authentication**
 1. Knowledge (Something you know) - Passwords, passphrase, passcode, answer to a secret question
 2. Possession (Something you have) - Mobile devices, key fobs, access cards, security tokens
 3. Inheritance (Something you are) - Fingerprint scans, iris or retina scans, voice recognition 
