@@ -1,4 +1,4 @@
-## Governance, Compliance and Risk Management
+## Governance, Compliance, Data Sovereignty and Risk Management
 
 ### GDPR  
 **General Data Protection Regulation (GDPR)** is the toughest privacy and security law in the world. Though it was drafted and passed by the European Union (EU), it imposes obligations onto organizations anywhere, so long as they target or collect data related to people in the EU. 
