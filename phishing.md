@@ -1,4 +1,4 @@
-# Phishing  
+# Phishing Related Terminology   
 The practice of tricking Internet users (as through the use of deceptive email messages or websites) into revealing personal or confidential information which can then be used illicitly.  
 > Reference(s): https://www.merriam-webster.com/dictionary/phishing
 
@@ -18,3 +18,6 @@ Smishing is a phishing cybersecurity attack carried out over **mobile text messa
 Vishing is a type of cybercrime aimed at stealing personal information **over the phone (actual live voice or recorded voice call)**. Vishing — a combination of “voice” and “phishing”— is a phone-based phishing scam, and criminals are usually after personal or financial information they can use to exploit you.
 > Reference(s): https://www.pandasecurity.com/en/mediacenter/mobile-security/what-is-vishing/  
 
+### Pharming  
+Using technical means to redirect users into accessing a fake Web site masquerading as a legitimate one and divulging personal information. An attack in which an attacker corrupts an infrastructure service such as DNS (Domain Name System) causing the subscriber to be misdirected to a forged verifier/RP, which could cause the subscriber to reveal sensitive information, download harmful software, or contribute to a fraudulent act.  
+> Reference(s): https://csrc.nist.gov/glossary/term/pharming
