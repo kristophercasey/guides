@@ -22,7 +22,7 @@ RBAC grants access based on defined business functions rather than the individua
 
 ### Attribute-based access control (ABAC)
 
-- *granted access based on an assigned serious of user's attributes.*
+- *granted access based on an assigned series of user's attributes.*
 
 In this dynamic method, access is based on a set of attributes and environmental conditions, such as time of day and location, assigned to both users and resources.
 > Reference(s):
