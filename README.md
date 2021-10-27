@@ -1,5 +1,8 @@
 # Information Security and Cyber Security
 ## Guides, References and Study Material 
+
+Work in progress...
+
 ### Glossary
 - [Common Terminology](common.md)  
 - [Common Cyber Attacks](commonattacks.md)
