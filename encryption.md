@@ -7,17 +7,17 @@
 - Requires smaller key lengths, usually of 128-256 bit length.
 - Provides the confidentiality of the data (data security).
 - Is useful for encrypting a large amount of data.  
-> Reference(s): https://sectigostore.com/blog/types-of-encryption-what-to-know-about-symmetric-vs-asymmetric-encryption/
+Source: https://sectigostore.com/blog/types-of-encryption-what-to-know-about-symmetric-vs-asymmetric-encryption/
 
 A cryptographic algorithm that uses a **single secret key** for different operations, such as for encryption and decryption. 
-> Reference(s): https://csrc.nist.gov/glossary/term/symmetric_key_algorithm
+Source: https://csrc.nist.gov/glossary/term/symmetric_key_algorithm
 
 Symmetric encryption is a type of encryption where only one key (a secret key) is used to both encrypt and decrypt electronic information. The entities communicating via symmetric encryption must exchange the key so that it can be used in the decryption process.  
 
 **Two types of symmetric encryption algorithms:**
 1. Block algorithms. Set lengths of bits are encrypted in blocks of electronic data with the use of a specific secret key. As the data is being encrypted, the system holds the data in its memory as it waits for complete blocks.  
 2. Stream algorithms. Data is encrypted as it streams instead of being retained in the system’s memory.  
-> Reference(s): https://www.cryptomathic.com/news-events/blog/symmetric-key-encryption-why-where-and-how-its-used-in-banking
+Source: https://www.cryptomathic.com/news-events/blog/symmetric-key-encryption-why-where-and-how-its-used-in-banking
 
 **Examples of symmetric encryption**
 - Data Encrpytion Standard (DES) *block cipher*
@@ -36,10 +36,10 @@ Symmetric encryption is a type of encryption where only one key (a secret key) i
 - Asymmetric keys are longer in their lengths.
 - Provides confidentiality, authenticity, and non-repudiation.
 - Is useful for encrypting a small amount of data.  
-> Reference(s): https://sectigostore.com/blog/types-of-encryption-what-to-know-about-symmetric-vs-asymmetric-encryption/
+Source: https://sectigostore.com/blog/types-of-encryption-what-to-know-about-symmetric-vs-asymmetric-encryption/
 
 Cryptography that uses two separate keys to exchange data, one to encrypt or digitally sign the data and one for decrypting the data or verifying the digital signature. Also known as public key cryptography.
-> Reference(s): https://csrc.nist.gov/glossary/term/asymmetric_cryptography
+Source: https://csrc.nist.gov/glossary/term/asymmetric_cryptography
 
 **Examples of asymmetric encryption**
 - Rivest–Shamir–Adleman (RSA)

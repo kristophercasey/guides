@@ -25,6 +25,6 @@ RBAC grants access based on defined business functions rather than the individua
 - *granted access based on an assigned series of user's attributes.*
 
 In this dynamic method, access is based on a set of attributes and environmental conditions, such as time of day and location, assigned to both users and resources.
-> Reference(s):
-> 1. https://www.citrix.com/en-au/solutions/secure-access/what-is-access-control.html
-> 2. https://www.csoonline.com/article/3251714/what-is-access-control-a-key-component-of-data-security.html
+Source(s):
+1. https://www.citrix.com/en-au/solutions/secure-access/what-is-access-control.html
+2. https://www.csoonline.com/article/3251714/what-is-access-control-a-key-component-of-data-security.html
